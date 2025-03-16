@@ -1,1 +1,3 @@
-# pad_proj1
+# Project 1 - PAD
+
+Students:
